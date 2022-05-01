@@ -28,7 +28,7 @@ p{
     margin: 0 auto;
     letter-spacing: .15em;
     animation:
-        typing 2.6s steps(40, end),
+        typing 1.2s steps(40, end),
         blink-caret .75s step-end infinite;
 }
 
